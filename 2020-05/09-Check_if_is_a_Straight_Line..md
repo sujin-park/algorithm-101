@@ -16,7 +16,8 @@ Output: false
 ```
 
 #### 문제 풀이
-브레젠험 직선 알고리즘을 통해서 처음과 끝점 사이에 있는 연속되는 점들이 직선을 이루고 있는지 체크를 했다. coordinates 에 있는 점들이
+브레젠험 직선 알고리즘을 통해서 처음과 끝점 사이에 있는 연속되는 점들이 직선을 이루고 있는지 체크를 했다. coordinates의 점들 중 하나라도 직선을 이루지 못하면 return false.
+```
 /**
  * @param {number[][]} coordinates
  * @return {boolean}
@@ -34,3 +35,4 @@ const checkStraightLine = (coordinates) => {
     }
     return true;
 };
+```
