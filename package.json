@@ -1,0 +1,22 @@
+{
+  "name": "algorithm-101",
+  "version": "1.0.0",
+  "description": "알고리즘 문제 풀이",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujin-park/algorithm-101.git"
+  },
+  "author": "sujin-park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujin-park/algorithm-101/issues"
+  },
+  "homepage": "https://github.com/sujin-park/algorithm-101#readme",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
