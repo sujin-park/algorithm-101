@@ -17,3 +17,4 @@
 - [Remove Minimum number](https://github.com/sujin-park/algorithm-101/blob/master/2020-05/14-Remove_Minimum_number.md)
 - [Invert Binary](https://github.com/sujin-park/algorithm-101/blob/master/2020-06/01-invert_binary.md)
 - [Delete Node in a Linked List](https://github.com/sujin-park/algorithm-101/blob/master/2020-06/02-delete_node.md)
+- [Two city scehduling](https://github.com/sujin-park/algorithm-101/blob/master/2020-06/03-Two_city_scheduling.md)
